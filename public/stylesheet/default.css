@@ -1,0 +1,15 @@
+p {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    margin: 20px;
+}
+.list-container a {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.list-container{
+    position: relative;
+}
