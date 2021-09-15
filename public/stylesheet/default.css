@@ -5,12 +5,12 @@ h1 {
     text-align: center;
     margin: 20px;
 }
-.list-container a {
+.link-container a {
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
     display: block;
 }
-.list-container{
+.link-container{
     position: relative;
 }
